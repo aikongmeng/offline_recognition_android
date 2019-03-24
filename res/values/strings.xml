@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OfflineClient</string>
+    <string name="hello_world">"欢迎使用搜狗离线语音识别引擎(Service 模式) v"</string>
+    <string name="btn_initing">初始化中&#x2026;</string>
+    <string name="btn_start">开始说话</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_waiting">识别中&#x2026;</string>
+    <string name="copyright">"©2014 Sogou"</string>
+    <string name="btn_cancel">"取消识别"</string>
+
+</resources>
